@@ -6,17 +6,17 @@ The SC09 dataset, a subset of the ([Speech Commands](https://research.googleblog
 Real data
 
 
-https://github.com/user-attachments/assets/7edb10d7-4aa5-4385-90ce-274fc92887f9
+https://github.com/user-attachments/assets/38edbd87-fb71-41cd-af1c-0208066f096a
 
 
 WaveGAN
 
 
-https://github.com/user-attachments/assets/97cf142a-f000-4634-955d-1400afa4d64f
+https://github.com/user-attachments/assets/47f414fd-17cb-4f82-936d-6943163dff69
 
 
 EMDGAN
 
 
-https://github.com/user-attachments/assets/5efcd7e2-6a60-435b-a916-13c44d95dc22
+https://github.com/user-attachments/assets/3df7db90-f75d-4c65-bbe0-7a68dc2ca570
 
